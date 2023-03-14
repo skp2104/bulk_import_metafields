@@ -1,0 +1,2 @@
+{ "metafields": { "key": "Hello", "value": "World", "namespace": "custom_fields", "ownerId": "gid://shopify/Product/8054748741954", "type": "multi_line_text_field" } }
+{ "metafields": { "key": "Hello2", "value": "World2", "namespace": "custom_fields", "ownerId": "gid://shopify/Product/8054748741954", "type": "multi_line_text_field" } }
